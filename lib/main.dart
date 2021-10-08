@@ -14,7 +14,6 @@ class MiniApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData.dark().copyWith(
-        accentColor: Colors.greenAccent,
         primaryColor: Colors.green,
         inputDecorationTheme: InputDecorationTheme(
             fillColor: Colors.lightGreenAccent, focusColor: Colors.green),

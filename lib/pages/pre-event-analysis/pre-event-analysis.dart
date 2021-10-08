@@ -27,7 +27,7 @@ class _PreEventAnalysisState extends State<PreEventAnalysis> {
   Widget build(BuildContext context) {
     return Container(
       child: Padding(
-        padding: const EdgeInsets.all(20.0),
+        padding: const EdgeInsets.all(16),
         child: Column(
           children: [
             TextField(
