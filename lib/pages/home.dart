@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mustang_mini_app/pages/pre-event-analysis/pre-event-analysis.dart';
-import 'package:mustang_mini_app/pages/scouting.dart';
+import 'package:mustang_mini_app/pages/scouting/scouting.dart';
 
 class Home extends StatefulWidget {
   const Home({Key? key}) : super(key: key);
